@@ -37,7 +37,9 @@ public class NumberInWords {
                 case '8':System.out.print("Eight ");
                         break;
                 case '9':System.out.print("Nine ");
+
                         break;
+			default:System.out.println("ERROR");
               }  }
     }
     
